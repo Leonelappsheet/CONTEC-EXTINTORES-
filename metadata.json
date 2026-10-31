@@ -1,0 +1,6 @@
+{
+  "name": "CONTEC B2B - Gestão e Comercialização de Extintores",
+  "description": "Plataforma B2B para vendas, CRM, orçamentos, estoque multi-depósito, ordens de serviço, QR Code e controle de validade de extintores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
